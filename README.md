@@ -32,7 +32,7 @@ A simple yet functional sticky note system for FiveM servers using the Qbox Fram
 
 ### Steps
 1. **Add to Resources**  
-   Place `qbx_stickynotes` in your `resources` directory
+   Place `maestro_stickynotes` in your `resources` directory
 
 2. **Database Setup**  
    Run this SQL query in your database:
