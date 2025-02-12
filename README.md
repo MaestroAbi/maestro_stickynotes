@@ -1,4 +1,4 @@
-# QBX Sticky Notes 📝
+# Maestro Sticky Notes 📝
 
 A simple yet functional sticky note system for FiveM servers using the Qbox Framework. Allows players to place physical notes in the world, read them, and manage them through interactive markers and OX Target integration.
 
@@ -55,7 +55,7 @@ A simple yet functional sticky note system for FiveM servers using the Qbox Fram
         client = {
             usable = true, -- Required for any item interaction
             image = 'stickynote.png', -- Optional but recommended
-            export = 'qbx_stickynotes.useItem' -- Must match client export
+            export = 'maestro_stickynotes.useItem' -- Must match client export
         }
     },
 4. Start resource
