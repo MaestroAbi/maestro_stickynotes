@@ -61,6 +61,6 @@ A simple yet functional sticky note system for FiveM servers using the Qbox Fram
 4. Start resource
    Add this to your server.cfg:
    ```
-   ensure qbx_stickynotes
+   ensure maestro_stickynotes
 5. Restart Server
    Fully restart your FiveM server to initialize the system
